@@ -1,0 +1,8 @@
+?????? cd ???? folder choose korte hobe and git init
+second: git status
+third:git add .
+forth: git remote and origin github er reprository file link
+fifth: git commit -m "meaning_full_meassage"
+sixth:git push origin master
+seventh:new folder er jonno npm i
+eigth: atom .
